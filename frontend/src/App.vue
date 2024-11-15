@@ -3,7 +3,29 @@
 </script>
 
 <template>
-<div></div>
+<div class="container">
+  <div class="left-sidebar">
+    <div class="reader-display-container"></div>
+    <div class="reader-navigation-container">
+      <button>Up</button>
+      <button>Down</button>
+      <button>Sync</button>
+    </div>
+  </div>
+  <div class="right-sidebar">
+    <div class="input-video-container">
+      <div class="video-player"></div>
+      <div class="video-actions"></div>
+    </div>
+    <div class="chat-container">
+      <div class="chat-board"></div>
+      <div class="chat-actions">
+        <input type="text">
+        <button>send</button>
+      </div>
+    </div>
+  </div>
+</div>
 </template>
 
 <style scoped>
