@@ -20,4 +20,4 @@ easy-slides/
 │ └── nginx.conf
 └── docker-compose.yml # Docker Compose configuration
 ```
-
+Frontend uses vite for hot reload after file changes
