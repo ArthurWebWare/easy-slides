@@ -25,3 +25,5 @@ go.work.sum
 .env
 #Jet Brains
 .idea
+#node
+frontend/node_modules
