@@ -3,7 +3,10 @@
 </script>
 
 <template>
-<div class="container">
+<div class="container ">
+  <h1 class="text-3xl font-bold underline">
+    Hello world!
+  </h1>
   <div class="left-sidebar">
     <div class="reader-display-container"></div>
     <div class="reader-navigation-container">
