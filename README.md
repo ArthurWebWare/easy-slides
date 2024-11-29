@@ -28,3 +28,9 @@ https://www.npmjs.com/package/pdf-vue3
 https://www.vuescript.com/minimal-pdf-viewer/  
 PDF example:  
 https://hymhub.github.io/pdf-vue3/
+
+#####
+TODO
+
+Choose icons from
+https://www.svgrepo.com/author/Solar%20Icons/
